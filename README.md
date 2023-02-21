@@ -52,3 +52,4 @@ ___
 <p align="left">
 <a href="https://cloud.google.com/bigquery?hl=es" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="BigQuery" width="50" height="50"/></a>
 <a href="https://powerbi.microsoft.com/es-es/" target="_blank"><img src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" alt="PowerBI" width="50" height="50"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="50" height="50"/>
