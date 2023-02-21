@@ -12,6 +12,9 @@
 <a href="mailto:grecco144@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
 </a>
+<a href="https://www.hackerrank.com/grecco144">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
 <!---
 Grecco144/Grecco144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,35 +24,54 @@ ___
 
 #### Programming languages
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" width="55" height="55"/> </a>
+<a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</a>
 
 ___
 
 #### Python libraries
 
-<p align="left">
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="Pandas" width="55" height="55"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="Numpy" width="55" height="55"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="55" height="55"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="55" height="55"/></a>
-<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" alt="Scikit-Learn" width="80" height="45"/></a>
-<a href="https://www.tensorflow.org/?hl=es-419" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="55" height="55"/></a>
-<a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras" width="55" height="55"/></a>
+<a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</a>
+<a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+</a>
+<a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+</a>
+<a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+</a>
+<a href="https://www.tensorflow.org/?hl=es-419">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow"/>
+</a>
+<a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
+</a>
 
 ___
 
 #### Database
 
-<p align="left">
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank"><img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+</a>
+<a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
 
 ___
 
 #### Others
 
-<p align="left">
-<a href="https://cloud.google.com/bigquery?hl=es" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="BigQuery" width="50" height="50"/></a>
-<a href="https://powerbi.microsoft.com/es-es/" target="_blank"><img src="https://www.k2e.com/wp-content/uploads/2018/12/Power-BI-Logo.png" alt="PowerBI" width="50" height="50"/></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="50" height="50"/>
+<a href="https://powerbi.microsoft.com/es-es/">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+</a>
+<a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</a>
+<a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+</a>
