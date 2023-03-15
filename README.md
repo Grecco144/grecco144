@@ -1,7 +1,7 @@
 ### Hi, I’m Gonzalo
 ***
 - 💻 I’m interested in Artificial inteligence.
-- 🎓 I’m currently studying Computer Engineering and also learning about Data Science.
+- 🎓 I’m currently studying Computer Engineering also learning about Data Science.
 
 <a href="https://www.linkedin.com/in/GonzaloGrecco144/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
